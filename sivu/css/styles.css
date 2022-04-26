@@ -1,0 +1,19 @@
+body {
+
+}
+.hero {
+    background:linear-gradient(0deg, rgba(92, 55, 0, 0.5), rgba(35, 56, 0, 0.5)), url('../img/running.jpg');
+    background-size: cover;
+    color: white;
+}
+.retail {
+    background:linear-gradient(0deg, rgba(1, 8, 34, 0.4), rgba(1, 29, 9, 0.4)), url('../img/shoes.png');
+    background-size: cover;
+}
+.kids {
+    background:linear-gradient(0deg, rgba(34, 32, 23, 0.3), rgba(32, 46, 139, 0.3)), url('../img/babby.jpg');
+    background-size: cover;
+}
+.newsletter {
+    background-color: rgb(73, 62, 46);
+}
